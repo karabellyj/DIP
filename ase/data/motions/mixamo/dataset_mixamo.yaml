@@ -1,0 +1,36 @@
+motions:
+  - file: "BackwardRunning.npy"
+    weight: 0.02070393
+  - file: "BackwardWalking.npy"
+    weight: 0.01552795
+  - file: "CrouchToStand.npy"
+    weight: 0.00289855
+  - file: "FallingToRoll.npy"
+    weight: 0.00869565
+  - file: "FrontKick.npy"
+    weight: 0.03105590
+  - file: "Idle.npy"
+    weight: 0.00434783
+  - file: "Jump.npy"
+    weight: 0.03105590
+  - file: "LeftTurn.npy"
+    weight: 0.03105590
+  - file: "LeftWalking.npy"
+    weight: 0.01552795
+  - file: "Punching.npy"
+    weight: 0.03105590
+  - file: "RightTurn.npy"
+    weight: 0.03105590
+  - file: "RightWalking.npy"
+    weight: 0.01552795
+  - file: "Running.npy"
+    weight: 0.02070393
+  - file: "RunningToTurn.npy"
+    weight: 0.02070393
+  - file: "SpinKick.npy"
+    weight: 0.03105590
+  - file: "StandingUp.npy"
+    weight: 0.03105590
+  - file: "Walking.npy"
+    weight: 0.02070393
+  

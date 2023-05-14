@@ -1,0 +1,28 @@
+{
+    "source_motion": "data/Walk_Strafe_Left.npy",
+    "target_motion_path": "data/Walk_Strafe_Left_amp.npy",
+    "source_tpose": "data/mixamo_humanoid_tpose.npy",
+    "target_tpose": "data/amp_humanoid_tpose.npy",
+    "joint_mapping": {
+         "mixamorig:Hips": "pelvis",
+         "mixamorig:LeftUpLeg": "left_thigh",
+         "mixamorig:LeftLeg": "left_shin",
+         "mixamorig:LeftFoot": "left_foot",
+         "mixamorig:RightUpLeg": "right_thigh",
+         "mixamorig:RightLeg": "right_shin",
+         "mixamorig:RightFoot": "right_foot",
+         "mixamorig:Spine1": "torso",
+         "mixamorig:Head": "head",
+         "mixamorig:LeftArm": "left_upper_arm",
+         "mixamorig:LeftForeArm": "left_lower_arm",
+         "mixamorig:LeftHand": "left_hand",
+         "mixamorig:RightArm": "right_upper_arm",
+         "mixamorig:RightForeArm": "right_lower_arm",
+         "mixamorig:RightHand": "right_hand"
+    },
+    "rotation": [0.5, 0.5, 0.5, 0.5],
+    "scale": 0.01,
+    "root_height_offset": 0.0,
+	"trim_frame_beg": 0,
+	"trim_frame_end": -1
+}

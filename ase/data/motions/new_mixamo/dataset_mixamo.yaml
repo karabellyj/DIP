@@ -1,0 +1,28 @@
+motions:
+  - file: "backward_running.npy"
+    weight: 0.02070393
+  - file: "backward_walking.npy"
+    weight: 0.01552795
+  - file: "idle.npy"
+    weight: 0.00434783
+  - file: "jump.npy"
+    weight: 0.03105590
+  - file: "left_turn_90.npy"
+    weight: 0.03105590
+  - file: "left_turn.npy"
+    weight: 0.03105590
+  - file: "left_strafe_walking.npy"
+    weight: 0.01552795
+  - file: "right_turn_90.npy"
+    weight: 0.03105590
+  - file: "right_turn.npy"
+    weight: 0.03105590
+  - file: "right_strafe_walking.npy"
+    weight: 0.01552795
+  - file: "running.npy"
+    weight: 0.02070393
+  - file: "standing_up.npy"
+    weight: 0.01552795
+  - file: "walking.npy"
+    weight: 0.02070393
+  
